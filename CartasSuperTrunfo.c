@@ -19,7 +19,7 @@ int main() {
     float pibpercapita1;
     float superpoder1;
 
-     // Carta2:
+    // Carta2:
     char estado2;
     char codigo2[3];
     char cidade2[30];
